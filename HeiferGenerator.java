@@ -1,4 +1,4 @@
-public class HeiferGenerator
+public class HeiferGenerator //here is the edited code for lab 11
 {
 	public static Cow[] getCows()
 	{
