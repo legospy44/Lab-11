@@ -1,4 +1,4 @@
-public class Cow {
+public class Cow { //here is the edited code for lab 11
    private String name; //private String for the name of the cow
    private String image; //private string for the image being printed by HeiferGenerator.java
 
