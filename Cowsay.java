@@ -1,4 +1,4 @@
-public class Cowsay {
+public class Cowsay { //here is the edited code for lab 11
    public static void main(String[] args) {
 
      Cow[] cows = HeiferGenerator.getCows(); //creates the list of cows from HeiferGenerator
